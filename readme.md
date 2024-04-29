@@ -4,7 +4,7 @@ Untitled1.ipynb
 ## 2. 切分数据集和训练集
 Untitled1.ipynb
 
-## 3.
+## 3. 建议gpu环境下训练
 
 ~~~python
 #训练
