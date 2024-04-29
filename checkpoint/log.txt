@@ -1,0 +1,2 @@
+Learning Rate	epoch	Train Loss	Valid Loss	Train Acc.	Valid Acc.	
+0.001000|1.000000|0.898782|0.599665|74.622076|83.620399|
